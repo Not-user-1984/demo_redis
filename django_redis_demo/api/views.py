@@ -91,4 +91,6 @@ def manage_item(request, *args, **kwargs):
                 }
                 return Response(response, status=404)
             
-    
+
+def main(huhuhu):
+    return huhuhu
