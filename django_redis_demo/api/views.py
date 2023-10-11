@@ -98,5 +98,5 @@ def main(huhuhu):
 def main3(kijj):
     return kijj
 
-def main(4):
-    return
+def main(hfh):
+    return hfh
