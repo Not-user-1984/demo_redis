@@ -94,3 +94,9 @@ def manage_item(request, *args, **kwargs):
 
 def main(huhuhu):
     return huhuhu
+
+def main3(kijj):
+    return kijj
+
+def main(hfh):
+    return hfh
